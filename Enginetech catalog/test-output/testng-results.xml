@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17385" started-at="2018-10-12T19:27:38Z" finished-at="2018-10-12T19:27:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17385" started-at="2018-10-12T19:27:38Z" finished-at="2018-10-12T19:27:55Z">
+      <class name="catalog.Engine_search">
+        <test-method status="PASS" signature="setup()[pri:0, instance:catalog.Engine_search@c038203]" name="setup" is-config="true" duration-ms="11403" started-at="2018-10-12T19:27:38Z" finished-at="2018-10-12T19:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="applnsearch()[pri:0, instance:catalog.Engine_search@c038203]" name="applnsearch" duration-ms="5110" started-at="2018-10-12T19:27:49Z" finished-at="2018-10-12T19:27:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applnsearch -->
+        <test-method status="PASS" signature="close()[pri:0, instance:catalog.Engine_search@c038203]" name="close" is-config="true" duration-ms="834" started-at="2018-10-12T19:27:54Z" finished-at="2018-10-12T19:27:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- catalog.Engine_search -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
