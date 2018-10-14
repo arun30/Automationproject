@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="98134" started-at="2018-10-14T13:38:36Z" finished-at="2018-10-14T13:40:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="98134" started-at="2018-10-14T13:38:36Z" finished-at="2018-10-14T13:40:14Z">
+      <class name="Engine_search2">
+        <test-method status="PASS" signature="presetup()[pri:0, instance:Engine_search2@59494225]" name="presetup" is-config="true" duration-ms="1229" started-at="2018-10-14T19:08:35Z" finished-at="2018-10-14T19:08:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- presetup -->
+        <test-method status="PASS" signature="applnsearch()[pri:0, instance:Engine_search2@59494225]" name="applnsearch" duration-ms="92771" started-at="2018-10-14T19:08:36Z" finished-at="2018-10-14T19:10:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- applnsearch -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Engine_search2@59494225]" name="close" is-config="true" duration-ms="5283" started-at="2018-10-14T19:10:09Z" finished-at="2018-10-14T19:10:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:Engine_search2@59494225]" name="cleanup" is-config="true" duration-ms="5040" started-at="2018-10-14T19:10:17Z" finished-at="2018-10-14T19:10:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- Engine_search2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
